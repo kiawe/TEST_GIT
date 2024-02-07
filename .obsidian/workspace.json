@@ -154,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -171,10 +172,10 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "a335566b7e181e64",
+  "active": "ce7dafbb0ddd4a41",
   "lastOpenFiles": [
-    "未命名 1.md",
     "日誌/2024-01-07.md",
+    "未命名 1.md",
     "日誌/2024-01-06.md",
     "日誌/未命名 1.md",
     "未命名.md",
