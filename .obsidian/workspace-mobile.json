@@ -62,21 +62,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2f5385bf3a62def5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "GITTEST/未命名.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "GITTEST/未命名.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -171,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "conflict-files-obsidian-git.md"
+            "file": "GITTEST/未命名.md"
           }
         }
       },
@@ -196,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f5385bf3a62def5",
+  "active": "9ecf1abaabf66f4f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "hk4.md",
