@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GITTEST/未命名.md"
+              }
             }
           }
         ],
@@ -139,9 +141,15 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "3aef9a38b7041ac6",
+  "active": "786916fbe9bd23f4",
   "lastOpenFiles": [
+    "Untitled 34.md",
     "hk4.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
+    "Untitled 123.md",
+    "Untitled5.md",
     "音樂.md",
     "股癌.md",
     "未命名.md",
@@ -153,7 +161,6 @@
     "tasks.md",
     "日誌/2024-02-07.md",
     "未命名 1.md",
-    "日誌/未命名 1.md",
-    "Untitled.md"
+    "日誌/未命名 1.md"
   ]
 }
