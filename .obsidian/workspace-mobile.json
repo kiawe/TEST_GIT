@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 3.md",
+                "file": "GITTEST/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 3.md",
+            "file": "GITTEST/未命名.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled 3.md",
+            "file": "GITTEST/未命名.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled 3.md"
+            "file": "GITTEST/未命名.md"
           }
         }
       }
@@ -176,10 +176,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ecf1abaabf66f4f",
+  "active": "4890df05e4d4de65",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "hk4.md",
     "Untitled 3.md",
+    "TEST_GIT",
+    "GITTEST/未命名 1.md",
+    "GITTEST/Hello World.md",
+    "GITTEST/未命名 2.md",
+    "GITTEST/Hello World - 複製.md",
+    "/GITTEST/未命名 1.md",
+    "/GITTEST/Hello World.md",
+    "/GITTEST/Hello World - 複製.md",
+    "/hk4.md",
+    "/GITTEST/未命名 2.md",
+    "/TEST_GIT",
+    "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md"
   ]
