@@ -38,9 +38,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a822993776dea60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ecf1abaabf66f4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Untitled 3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Untitled 1.md",
+            "file": "Untitled 3.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Untitled 1.md"
+            "file": "Untitled 3.md"
           }
         }
       }
@@ -152,9 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14536444086bc98c",
+  "active": "9ecf1abaabf66f4f",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md"
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 1.md",
+    "Untitled.md"
   ]
 }
