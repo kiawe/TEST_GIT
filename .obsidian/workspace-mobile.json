@@ -52,12 +52,12 @@
             }
           },
           {
-            "id": "9ecf1abaabf66f4f",
+            "id": "c0a8e399d917a3a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GITTEST/未命名.md",
+                "file": "我在側.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "GITTEST/未命名.md",
+            "file": "我在側.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "GITTEST/未命名.md",
+            "file": "我在側.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "GITTEST/未命名.md"
+            "file": "我在側.md"
           }
         }
       },
@@ -184,24 +184,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ecf1abaabf66f4f",
+  "active": "4890df05e4d4de65",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "GITTEST/未命名 2.md",
+    "GITTEST/未命名.md",
+    "GITTEST/未命名 1.md",
+    "/GITTEST/未命名 1.md",
+    "/GITTEST/未命名.md",
+    "/GITTEST/未命名 2.md",
+    "Untitled.md",
+    "我在側.md",
+    "日誌/2024-01-10.md",
     "hk4.md",
     "/hk4.md",
     "/TEST_GIT",
+    "未命名.md",
+    "音樂.md",
+    "日誌",
+    "tasks.md",
+    "股癌.md",
+    "未命名.canvas",
+    "日誌/2024-01-06.md",
+    "日誌/2024-01-07.md",
+    "/股癌.md",
+    "/日誌/2024-01-10.md",
+    "/日誌/2024-01-07.md",
+    "/日誌/2024-01-06.md",
+    "/tasks.md",
+    "/音樂.md",
+    "/未命名.md",
+    "/未命名.canvas",
+    "/日誌",
+    "conflict-files-obsidian-git.md",
     "Untitled 3.md",
-    "TEST_GIT",
-    "GITTEST/未命名 1.md",
-    "GITTEST/Hello World.md",
-    "GITTEST/未命名 2.md",
-    "GITTEST/Hello World - 複製.md",
-    "/GITTEST/未命名 1.md",
-    "/GITTEST/Hello World.md",
-    "/GITTEST/Hello World - 複製.md",
-    "/GITTEST/未命名 2.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md"
+    "TEST_GIT"
   ]
 }
