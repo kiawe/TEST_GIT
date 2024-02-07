@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "264e197b63b23a54",
+    "id": "24a6bbdc2c5985c1",
     "type": "split",
     "children": [
       {
-        "id": "c6df53a4682d020d",
+        "id": "96f431f8460ff3cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2039a1edd0c228ca",
+            "id": "ee0b6a4aefb9a923",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "hk4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5c6e38b35c943fa1",
+    "id": "4683f9296ec7889f",
     "type": "split",
     "children": [
       {
-        "id": "7823c5b10fdd5289",
+        "id": "73d85e1cf0eaafdd",
         "type": "tabs",
         "children": [
           {
-            "id": "1e8caa92e28319c2",
+            "id": "786916fbe9bd23f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "0b0bfb3366bb41e4",
+            "id": "52587bd37d87cc62",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "7762a5cdf17509b0",
+            "id": "4fefafe570264609",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "bb8d669f5ce25ccf",
+    "id": "73ccc99281a2802e",
     "type": "split",
     "children": [
       {
-        "id": "9a91638f2e94ac53",
+        "id": "9372d9ba0eddfb7d",
         "type": "tabs",
         "children": [
           {
-            "id": "fbe73593e4260413",
+            "id": "fd28a77475742508",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hk4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "b44b9b938fc3b7cd",
+            "id": "99a565eebe99614d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hk4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e0aae284cf70bd0b",
+            "id": "567def86c661cfba",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "7b7d9d9073f94c57",
+            "id": "ce7dafbb0ddd4a41",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hk4.md"
+              }
             }
           }
         ]
@@ -138,13 +146,9 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2039a1edd0c228ca",
+  "active": "ee0b6a4aefb9a923",
   "lastOpenFiles": [
-    "未命名 1.md",
-    "未命名 2.md",
-    "未命名.md",
-    "Hello World - 複製.md",
-    "Welcome.md",
-    "Hello World.md"
+    "Untitled.md",
+    "hk4.md"
   ]
 }
